@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ekta Patel</h1>
 <h3 align="center">Data Analyst Portfolio | SQL • Power BI • Excel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta1757-max&label=Profile%20views&color=0e75b6&style=flat" alt="ekta1757-max" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ektap1757-max&label=Profile%20views&color=0e75b6&style=flat" alt="ektap1757-max" /> </p>
 
 - 🌱 I’m currently learning **Advanced Power BI**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekta1757-max&show_icons=true&locale=en&layout=compact" alt="ekta1757-max" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektap1757-max&show_icons=true&locale=en&layout=compact" alt="ektap1757-max" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekta1757-max&show_icons=true&locale=en" alt="ekta1757-max" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ektap1757-max&show_icons=true&locale=en" alt="ektap1757-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekta1757-max&" alt="ekta1757-max" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ektap1757-max&" alt="ektap1757-max" /></p>
